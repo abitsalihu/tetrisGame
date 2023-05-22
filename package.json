@@ -1,0 +1,23 @@
+{
+  "name": "tetrisgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abitsalihu/tetrisGame.git"
+  },
+  "author": "abi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abitsalihu/tetrisGame/issues"
+  },
+  "homepage": "https://github.com/abitsalihu/tetrisGame#readme",
+  "devDependencies": {
+    "vite": "^4.3.8"
+  }
+}
