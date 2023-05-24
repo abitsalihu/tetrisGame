@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/abitsalihu/tetrisGame#readme",
   "devDependencies": {
+    "@babylonjs/core": "^6.4.1",
     "vite": "^4.3.8"
+  },
+  "dependencies": {
+    "@babylonjs/havok": "^1.0.1",
+    "cannon": "^0.6.2"
   }
 }
